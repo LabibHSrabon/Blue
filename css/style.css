@@ -1,0 +1,124 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color: #111927;
+
+}
+.container{
+	width: 85%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logoimg{
+	float: left;
+}
+.loginmenu{
+	float: right;
+}
+.loginmenu a{text-decoration: none;
+}
+.login1 a{color: black;}
+.login2 a{color: white;}
+
+
+.menu1{
+	float: right;
+}
+.menu1 ul li{
+	float: left;
+	list-style: none;
+	padding: 0 50px;
+	padding-top: 50px;
+}
+.menu1 ul li a{
+	text-decoration: none;
+	color: white;
+	transition: .5s;
+} 
+.menu1 ul li a:hover{
+	color: #007EB1
+}
+.menu1 ul:last-child li{
+	padding-right:0px;}
+/*.menu1 ul li:last-child a{
+	padding-right:0px;
+}*/
+.loginmenu{overflow: hidden;}
+.login1{
+	float: left;
+}
+.login2{float: right;}
+.banner{ background-size:cover;
+		background-repeat: no-repeat;}
+.bcon{
+	width: 50%;
+	margin-top: 400px;
+	margin-bottom: 150px;
+}
+.bcon h1{ font-weight: 200;
+		font-size: 50px;
+		margin-bottom: 0; }
+.bcon h2{ font-weight: 700;
+		font-size: 50px;
+		margin-top: 0;
+		margin-bottom: 0; }
+.service{background-color:#121B2C; }
+.title2nd{color: #0078BE;
+		  font-weight:400;
+		  margin-bottom:0;
+		  margin-top: 0; }
+.title1st{color: white;
+		  font-weight:400;
+		  margin-bottom:0;
+		  margin-top: 0; }
+.scon1,.simg1,.title1{float: left;}
+.scon1{width: 29%;
+		padding: 35px 50px 35px 0;}
+.scon2,.simg2,.title2{float: left;}
+.scon2{width: 29%;
+		padding: 35px 50px;}
+.scon3,.simg3,.title3{float: left;}
+.scon3{width: 29%;
+		padding: 35px 0px 35px 50px;}
+.service{padding: 35px 0;}
+.scon1head,.scon2head,.scon3head{overflow: hidden;}
+.textdet{color: white;
+		font-size: 20px;}
+.simg1{width: 25%;}
+.simg1 img{width: 100%;}
+.title1{margin-top: 10px;}
+.simg2{width: 25%;}
+.simg2 img{width: 80%;}
+.title2{margin-top: 15px;}
+.simg3{width: 25%;}
+.simg3 img{width: 80%;}
+.title3{margin-top: 60px;}
+.scon2{ border-right: 1px solid #1A2430;
+		border-left: 1px solid #1A2430; }
+.contact{background-color: #040811;}
+.con1 p {color: #A3A4A8;}
+.con1{width: 28.5%;
+		padding: 35px 50px 35px 0;
+		float: left;}
+.con2 p {color: #A3A4A8;}
+.con2{width: 28.5%;
+		padding: 35px 50px 35px 50px;
+		float: left;}
+.con3{width: 28.5%;
+		padding: 35px 0px 35px 50px;
+		float: left;}
+
+.con3mob{width:35% ;
+	float: left;}
+.appdet h1 {margin-bottom: 0;
+			margin-top: 5px;}
+.footer{background-color: #121B2C;
+		min-height: 100px; }
+.footermenu,.footerlogo1,.footerlogo2{float: left;}
+.footermenu{width: 65%;}
+.footerlogo1{padding: 25px;}
+.footerlogo2{padding: 18px;}
+
+
