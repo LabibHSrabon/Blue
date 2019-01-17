@@ -1,4 +1,4 @@
 # Blue
-a basic layout 
+a basic layout.
 
 https://labibhsrabon.github.io/Blue/
